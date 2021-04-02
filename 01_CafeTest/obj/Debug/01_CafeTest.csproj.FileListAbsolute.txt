@@ -1,0 +1,13 @@
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\01_CafeTest.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\01_CafeTest.pdb
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\01_CafeLibrary.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\01_CafeLibrary.pdb
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\obj\Debug\01_CafeTest.csprojAssemblyReference.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\obj\Debug\01_CafeTest.csproj.CoreCompileInputs.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\obj\Debug\01_CafeTest.csproj.CopyComplete
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\obj\Debug\01_CafeTest.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeTest\obj\Debug\01_CafeTest.pdb

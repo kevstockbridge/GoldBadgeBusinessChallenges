@@ -1,0 +1,6 @@
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\bin\Debug\01_CafeLibrary.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\bin\Debug\01_CafeLibrary.pdb
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\obj\Debug\01_CafeLibrary.csprojAssemblyReference.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\obj\Debug\01_CafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\obj\Debug\01_CafeLibrary.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeLibrary\obj\Debug\01_CafeLibrary.pdb

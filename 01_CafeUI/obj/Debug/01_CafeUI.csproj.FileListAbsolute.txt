@@ -1,0 +1,10 @@
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\bin\Debug\01_CafeUI.exe.config
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\bin\Debug\01_CafeUI.exe
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\bin\Debug\01_CafeUI.pdb
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\bin\Debug\01_CafeLibrary.dll
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\bin\Debug\01_CafeLibrary.pdb
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\obj\Debug\01_CafeUI.csprojAssemblyReference.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\obj\Debug\01_CafeUI.csproj.CoreCompileInputs.cache
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\obj\Debug\01_CafeUI.csproj.CopyComplete
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\obj\Debug\01_CafeUI.exe
+C:\Users\kev\source\repos\Gold-Badge-Business-Challenges-master\01_CafeUI\obj\Debug\01_CafeUI.pdb
